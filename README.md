@@ -1,7 +1,5 @@
-django-poll-app
+django-Qbook-app
 ===============
-
-The solution to https://docs.djangoproject.com/en/dev/intro/tutorial01/
 
 Getting Started
 ---------------
